@@ -1,0 +1,4 @@
+1) Install Oracle VM Virtualbox
+2) Download .iso file for live server
+3) Apply all default settings
+4) Install ethereum, nodejs, npm, truffle(single machine)
